@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/bumisendal"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/bumisendal"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
@@ -15,7 +15,10 @@
 
 ```typescript
 const bumisendal = {
+    name: "Bumi Sendal",
     location: "Indonesia 🇮🇩",
+    role: "Full Stack Developer & Blockchain Enthusiast",
+    telegram: "@bumisendal",
     focus: ["Web3", "AI/ML", "Automation", "Cloud Infrastructure"],
     languages: ["TypeScript", "Python", "Rust", "Go", "Solidity"],
     currentProject: "Building the future, one block at a time ⛓️",
@@ -78,9 +81,12 @@ const bumisendal = {
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/bumisendal">
-    <img src="https://komarev.com/ghpvc/?username=bumisendal&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
-  </a>
+  <a href="https://github.com/bumisendal"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://t.me/bumisendal"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bumisendal&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
 </p>
 
 <p align="center">
